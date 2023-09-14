@@ -1,0 +1,16 @@
+<body>
+<h1> The document Object </h1>
+<h2> The write() MEthod </h2>
+
+<p> Wirte a date object directly to the HTML output:</p>
+
+<script>
+document.wirte(Date());
+</script>
+
+<h2> The Lorem Ipsum Passage</h2>
+
+<p> THis is Lorem ipsum dolor sit amet, consecteture
+</p>
+
+</body>
