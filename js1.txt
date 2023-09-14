@@ -1,0 +1,8 @@
+let emergency = [123,5423, 234, 123123, 123];
+
+function solution33(emergency) {
+  let answer = emergency.map((x) => emergency.filter((y)=> y=> x ).length);
+  return answer;
+}
+  
+console.log(solution33(emergency));
