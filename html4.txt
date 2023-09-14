@@ -1,0 +1,34 @@
+String length
+slice()
+substring()
+substr()
+replace()
+replaceAll()
+toUpperCase()
+toLoverCase()
+concat()
+trim()
+trimStart()
+trimEnd()
+padStart()
+padEnd()
+charAt()
+charCodeAt()
+split()
+
+<body>
+<html>
+<h1> String Methods</h1>
+<p> the substr() method extract a part of a string and returns the extraced parts in a new string
+</p>
+
+<p id="demo">Here</p>
+
+<script>
+let str = "Apple, Banana, Kiwi";
+
+document.getElementById("demo").innerHTML = str.substr(7);
+</script>
+
+</body>
+</html>
