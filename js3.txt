@@ -1,0 +1,48 @@
+new Set()
+add()
+delete()
+has()
+forEach()
+values()
+size
+
+const letters = new Set();
+
+letters.add("a");
+letters.add("b");
+letters.add("c");
+
+
+
+const letters = new Set();
+
+const a = "a";
+const b = "b";
+const c = "c";
+
+letters.add(a);
+letters.add(b);
+letters.add(c);
+
+letters.add("d");
+letters.add("e");
+
+
+
+const letters = new Set(["a,","b","c"]);
+
+let text = "";
+letters.forEach (function(value) {
+text += value:
+})
+
+
+
+const letters = new Set(["a", "b", "c"]);
+
+let text = "";
+letters.forEach (function(value) {
+text +=value + "<br>";
+})
+
+document.getElementById("demo").innerHTML = text;
