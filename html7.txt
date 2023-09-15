@@ -8,11 +8,11 @@
 <p>BBang BBang BBang BBang BBang BBang SSAL!!!</p>
 
 
-    <button onclick="window.location.href='https://github.com/eduau1?tab=repositories';">
+    <button onclick="window.location.href='https://github.com/eduau1/bbangssal_solSonSuBom0914';">
       eduau
     </button>
 
-    <button onclick="window.location.href='https://github.com/myhobby1?tab=repositories';">
+    <button style="font-size: 30px;"onclick="window.location.href='https://github.com/myhobby1?tab=repositories';">
       myhobby
     </button>
 
