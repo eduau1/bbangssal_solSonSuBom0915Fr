@@ -1,0 +1,57 @@
+new Map()
+set()
+get()
+delete()
+has()
+forEach()
+entries()
+size
+
+
+const fruits = new Map([
+["apples", 500],
+["bananas", 300],
+["oranges", 200]
+]);
+
+
+const fruits = new Map();
+
+fruits.set("apples", 500);
+fruits.set("bannas", 300);
+fruits.set("oranges", 200);
+
+Converting Strings to Numbers
+Converting Numbers to Strings
+Converting Dates to Numbers
+Converting Numbers to Dates
+Converting Booleans to Numbers
+Converting Numbers to Booleans
+
+
+Numbers()
+Numbers("3.14")
+Number(Math.PI)
+Number(" ")
+Number("")
+
+Number()
+parseFloat()
+parseInt()
+
+
+let y = "5";
+let x =+ y;
+
+let y = "John";
+let x =+ y;
+
+String(x)
+String(123)
+String(100 + 23)
+
+x.toString()
+(123).toString()
+(100+23).toString()
+
+
